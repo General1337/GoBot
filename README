@@ -1,0 +1,23 @@
+**** IRC Go Bot *****
+
+
+** This is a bot created in Google's language "Go"
+** Currently what it does is join a channel of your preference and server and will allow you to run commands such as 
+** "~showtime" then the name of a show, such as "~showtime Sons of Anarchy" this will display information about the show.
+** Information is retrieved using the xmlx library and grabs it through tvrage.com however this will change as I've found a better place
+** to retrieve the resources.
+
+
+// I have supplied a compiled XMLX package with this in order for you to easily compile main.go //
+// I DID NOT MAKE XMLX, you can find it here on github it is made by exch. //
+
+
+
+
+** TODO: **
+
+-- Add last.fm library and bot commands
+-- Create IRC package to handle most requests
+-- Allow bot to speak
+-- Add admin usage
+// November 27, 2009 //
